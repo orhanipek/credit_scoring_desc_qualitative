@@ -1,1 +1,21 @@
+Name of Quantlet: QuantitativeMosaicPlot
 
+Published in: Paper
+
+Description: Plots the Mosaic Plots
+
+Keywords: Mosaic Plot, Qualitative, Relationship, Variable, Categories, Independence, Correlation
+
+See also: for listing related, similar Quantlets or Github code from your point of view - delete if not used
+
+Author: Orhan Ipek/Yousuf Siddiqui/Shikhar Srivastava
+
+Submitted:  SHOULD NOT BE EMPTY
+
+Datafile: german.data
+
+Input: (optional - delete if not used)
+
+Output:  (optional - delete if not used)
+
+Example: for your plots, graphs, results etc. - delete if not used
